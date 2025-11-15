@@ -4,7 +4,7 @@
 
 Nosso público principal são pessoas que participam de grupos de família, amigos ou comunidades, especialmente aquelas com menor letramento midiático, pouco tempo para checar informações e alta dependência do app como fonte de informação diária. Sabemos que, nesse ambiente, o ritmo das mensagens é intenso e o apelo emocional das fake news dificulta a análise crítica. E mesmo quem quer verificar o conteúdo muitas vezes esbarra em ferramentas complexas, sites pesados e linguagens técnicas.
 
-Mas nosso projeto vai além da checagem individual.
+### Mas nosso projeto vai além da checagem individual.
 
 Estamos evoluindo o **Tá Certo Isso AI** para se tornar uma plataforma de dados poderosa. Com o grande volume de mensagens analisadas pelo nosso bot, sempre com os devidos cuidados de anonimização e mascaramento de conteúdo sensível, construiremos uma **infraestrutura de analytics** voltada para pesquisadores, jornalistas, instituições e organizações da sociedade civil. Essa plataforma web permitirá acompanhar padrões de desinformação, tendências temáticas, redes de disseminação e formatos mais recorrentes de fake news ao longo do tempo.
 
