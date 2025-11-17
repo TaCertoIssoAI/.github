@@ -1,6 +1,6 @@
 ## Tá Certo Isso AI?
 
-**Tá Certo Isso AI** nasceu como um bot de WhatsApp que usa inteligência artificial multimodal e APIs de fact-checking para combater a desinformação de forma rápida e acessível, diretamente dentro do aplicativo mais usado pelos brasileiros. A proposta é simples: permitir que qualquer pessoa, com poucos toques, possa verificar se uma mensagem recebida é verdadeira, enganosa ou fora de contexto **sem precisar sair do WhatsApp**, entender de política ou dominar técnicas jornalísticas.
+**Tá Certo Isso AI?** nasceu como um bot de WhatsApp que usa inteligência artificial multimodal e APIs de fact-checking para combater a desinformação de forma rápida e acessível, diretamente dentro do aplicativo mais usado pelos brasileiros. A proposta é simples: permitir que qualquer pessoa, com poucos toques, possa verificar se uma mensagem recebida é verdadeira, enganosa ou fora de contexto **sem precisar sair do WhatsApp**, entender de política ou dominar técnicas jornalísticas.
 
 Nosso público principal são pessoas que participam de grupos de família, amigos ou comunidades, especialmente aquelas com menor letramento midiático, pouco tempo para checar informações e alta dependência do app como fonte de informação diária. Sabemos que, nesse ambiente, o ritmo das mensagens é intenso e o apelo emocional das fake news dificulta a análise crítica. E mesmo quem quer verificar o conteúdo muitas vezes esbarra em ferramentas complexas, sites pesados e linguagens técnicas.
 
