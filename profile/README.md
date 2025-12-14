@@ -11,3 +11,18 @@ Estamos evoluindo o **Tá Certo Isso AI?** para se tornar uma plataforma de dado
 Imaginamos um ecossistema onde não só ajudamos pessoas a identificar notícias falsas no dia a dia, mas também **geramos conhecimento estratégico** para fortalecer a luta contra a desinformação em escala. Nossa hipótese é clara: ao democratizar tanto a verificação quanto o acesso às análises produzidas, ampliamos o impacto social do projeto, oferecendo uma solução tecnológica com potencial de intervenção imediata e valor científico a longo prazo.
 
 Assim, **Tá Certo Isso AI?** se torna mais do que um bot. É uma ponte entre o cotidiano da informação digital e os bastidores da produção de conhecimento sobre ela.
+
+
+### Nosso chatbot de fact-checking 
+
+![chatbot](exemplo_bot.jpeg)
+
+### [Website com dados das checagens](https://tacertoissoai.com.br/)
+
+![Website](website.png)
+
+
+### Diagrama de Arquitetura
+
+![arquitetura](arquitetura.png)
+
