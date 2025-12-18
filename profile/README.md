@@ -4,7 +4,7 @@
   <a href="https://tacertoissoai.com.br/">
     <img
       alt="Acesse o site"
-      src="https://img.shields.io/badge/ACESSAR%20O%20SITE-tacertoissoai.com.br-0B5FFF?style=for-the-badge"
+      src="https://img.shields.io/badge/ACESSAR%20O%20SITE-tacertoissoai.com.br-22C55E?style=for-the-badge"
     />
   </a>
 </p>
@@ -21,12 +21,16 @@ Imaginamos um ecossistema onde não só ajudamos pessoas a identificar notícias
 
 Assim, **Tá Certo Isso AI?** se torna mais do que um bot. É uma ponte entre o cotidiano da informação digital e os bastidores da produção de conhecimento sobre ela.
 
-### Demo (chatbot, website e arquitetura)
+<details>
+  <summary><b>Ver imagens (chatbot, website e arquitetura)</b></summary>
 
-<div align="center">
-  <img src="exemplo_bot.jpeg" alt="chatbot" height="220" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="website.png" alt="Website" height="220" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="arquitetura.png" alt="arquitetura" height="220" />
-</div>
+  <br />
+
+  <div align="center">
+    <img src="exemplo_bot.jpeg" alt="chatbot" height="220" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="website.png" alt="Website" height="220" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="arquitetura.png" alt="arquitetura" height="220" />
+  </div>
+</details>
