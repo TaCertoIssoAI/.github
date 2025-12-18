@@ -1,5 +1,14 @@
 ## Tá Certo Isso AI?
 
+<p align="center">
+  <a href="https://tacertoissoai.com.br/">
+    <img
+      alt="Acesse o site"
+      src="https://img.shields.io/badge/ACESSAR%20O%20SITE-tacertoissoai.com.br-0B5FFF?style=for-the-badge"
+    />
+  </a>
+</p>
+
 **Tá Certo Isso AI?** nasceu como um bot de WhatsApp que usa inteligência artificial multimodal e APIs de fact-checking para combater a desinformação de forma rápida e acessível, diretamente dentro do aplicativo mais usado pelos brasileiros. A proposta é simples: permitir que qualquer pessoa, com poucos toques, possa verificar se uma mensagem recebida é verdadeira, enganosa ou fora de contexto **sem precisar sair do WhatsApp**, entender de política ou dominar técnicas jornalísticas.
 
 Nosso público principal são pessoas que participam de grupos de família, amigos ou comunidades, especialmente aquelas com menor letramento midiático, pouco tempo para checar informações e alta dependência do app como fonte de informação diária. Sabemos que, nesse ambiente, o ritmo das mensagens é intenso e o apelo emocional das fake news dificulta a análise crítica. E mesmo quem quer verificar o conteúdo muitas vezes esbarra em ferramentas complexas, sites pesados e linguagens técnicas.
@@ -12,17 +21,12 @@ Imaginamos um ecossistema onde não só ajudamos pessoas a identificar notícias
 
 Assim, **Tá Certo Isso AI?** se torna mais do que um bot. É uma ponte entre o cotidiano da informação digital e os bastidores da produção de conhecimento sobre ela.
 
+### Demo (chatbot, website e arquitetura)
 
-### Nosso chatbot de fact-checking 
-
-![chatbot](exemplo_bot.jpeg)
-
-### [Website com dados das checagens](https://tacertoissoai.com.br/)
-
-![Website](website.png)
-
-
-### Diagrama de Arquitetura
-
-![arquitetura](arquitetura.png)
-
+<div align="center">
+  <img src="exemplo_bot.jpeg" alt="chatbot" height="220" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="website.png" alt="Website" height="220" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="arquitetura.png" alt="arquitetura" height="220" />
+</div>
