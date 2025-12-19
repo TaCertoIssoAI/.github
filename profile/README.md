@@ -7,6 +7,18 @@
       src="https://img.shields.io/badge/ACESSAR%20O%20SITE-tacertoissoai.com.br-22C55E?style=for-the-badge"
     />
   </a>
+  <a href="https://proximal-zoo-82f.notion.site/tacertoissoai?v=2a5aeefa32198082ba6d000cd5ac7ee4">
+    <img
+      alt="Notion (anotações)"
+      src="https://img.shields.io/badge/NOTION-anota%C3%A7%C3%B5es-000000?style=for-the-badge"
+    />
+  </a>
+  <a href="https://youtu.be/Tr7s_vxDnKk">
+    <img
+      alt="Vídeo de apresentação"
+      src="https://img.shields.io/badge/VER%20V%C3%8DDEO-apresenta%C3%A7%C3%A3o-FF0000?style=for-the-badge"
+    />
+  </a>
 </p>
 
 **Tá Certo Isso AI?** nasceu como um bot de WhatsApp que usa inteligência artificial multimodal e APIs de fact-checking para combater a desinformação de forma rápida e acessível, diretamente dentro do aplicativo mais usado pelos brasileiros. A proposta é simples: permitir que qualquer pessoa, com poucos toques, possa verificar se uma mensagem recebida é verdadeira, enganosa ou fora de contexto **sem precisar sair do WhatsApp**, entender de política ou dominar técnicas jornalísticas.
